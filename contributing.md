@@ -9,10 +9,9 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 Follow these steps to tell us about your contribution:
 
-- Are you fixing a bug? Copy the template from here:
-
-1. Update the **README.md** with details of changes to the project, this includes new environment
-   variables, or anything else that would impact a consumer of this library.
+- Are you fixing a bug? Copy this template: https://github.com/tripott/contributing/blob/master/big-fix-pr-template.md
+- Are you fixing documentation?: Copy this template: https://github.com/tripott/contributing/blob/master/documentation-pr-template.md
+- Are you adding a feature? Copy this template: https://github.com/tripott/contributing/blob/master/feature-change-pr-template.md
 
 ## Code of Conduct
 
